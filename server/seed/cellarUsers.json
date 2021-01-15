@@ -1,0 +1,27 @@
+[
+  {
+    "userId": 3,
+    "cellarId": 1,
+    "permission": "OWNER"
+  },
+  {
+    "userId": 3,
+    "cellarId": 2,
+    "permission": "OWNER"
+  },
+  {
+    "userId": 1,
+    "cellarId": 2,
+    "permission": "USER"
+  },
+  {
+    "userId": 1,
+    "cellarId": 3,
+    "permission": "OWNER"
+  },
+  {
+    "userId": 1,
+    "cellarId": 1,
+    "permission": "OWNER"
+  }
+]

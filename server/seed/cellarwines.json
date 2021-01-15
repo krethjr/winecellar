@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "wineName": "Barrel Aged Chardonnay",
+    "wineDesc": "Monterey Barrel Aged",
+    "rating": 85,
+    "quantity": 4,
+    "cost": 15.99,
+    "locationId": 1,
+    "wineId": 5,
+    "cellarId": 1
+  },
+  {
+    "id": 2,
+    "wineName": "El Dorado Estate Petite Sirah",
+    "wineDesc": "Nice robust deep red petite",
+    "rating": 86,
+    "quantity": 4,
+    "cost": 18.99,
+    "locationId": 1,
+    "wineId": 9,
+    "cellarId": 1
+  },
+  {
+    "id": 3,
+    "wineName": "Herbert Vineyard Zin",
+    "wineDesc": "Nice robust deep red petite",
+    "rating": 92,
+    "quantity": 6,
+    "cost": 20.75,
+    "locationId": 1,
+    "wineId": 68,
+    "cellarId": 1
+  }
+]

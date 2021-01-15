@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "locationName": "Wine Cellar",
+    "defaultFlg": true,
+    "cellarId": 2
+  },
+  {
+    "id": 2,
+    "locationName": "Cooler",
+    "defaultFlg": false,
+    "cellarId": 2
+  },
+  {
+    "id": 3,
+    "locationName": "Other Place",
+    "defaultFlg": true,
+    "cellarId": 1
+  },
+  {
+    "id": 4,
+    "locationName": "Cabinet",
+    "defaultFlg": false,
+    "cellarId": 2
+  }
+]

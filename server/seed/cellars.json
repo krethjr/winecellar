@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "ownerId": "3",
+    "cellarName": "Kreth Cellar"
+  },
+  {
+    "id": "2",
+    "ownerId": "3",
+    "cellarName": "Harris House"
+  },
+  {
+    "id": "3",
+    "ownerId": "2",
+    "cellarName": "Other Cellar"
+  }
+]

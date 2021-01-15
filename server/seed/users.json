@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@test.com",
+    "password": "fodder",
+    "isAdmin": true
+  },
+  {
+    "id": 2,
+    "username": "test",
+    "email": "test@test.com",
+    "password": "fodder",
+    "isAdmin": false
+  },
+  {
+    "id": 3,
+    "username": "jim",
+    "email": "jim@krethweb.org",
+    "password": "fodder",
+    "isAdmin": true
+  }
+]

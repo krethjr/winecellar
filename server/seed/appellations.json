@@ -1,0 +1,3512 @@
+[
+  {
+    "id": 1,
+    "appName": "Zaberzan Skrapar",
+    "regionId": 7,
+    "commonFlg": false
+  },
+  {
+    "id": 2,
+    "appName": "Chateau Romain",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 3,
+    "appName": "Chateau Tellagh",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 4,
+    "appName": "Coteaux de Mascara",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 5,
+    "appName": "Coteaux de Tlemcen",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 6,
+    "appName": "Coteaux de Zaccar",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 7,
+    "appName": "Cuvee du President",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 8,
+    "appName": "Dahra",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 9,
+    "appName": "Benchicao",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 10,
+    "appName": "Djendel",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 11,
+    "appName": "El Bordj",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 12,
+    "appName": "Khadra",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 13,
+    "appName": "Mamounia",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 14,
+    "appName": "Sebra",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 15,
+    "appName": "Medea",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 16,
+    "appName": "Monts du Tessala",
+    "regionId": 8,
+    "commonFlg": false
+  },
+  {
+    "id": 17,
+    "appName": "Sonoita",
+    "regionId": 10,
+    "commonFlg": true
+  },
+  {
+    "id": 18,
+    "appName": "Altus",
+    "regionId": 11,
+    "commonFlg": true
+  },
+  {
+    "id": 19,
+    "appName": "Arkansas Mountain",
+    "regionId": 11,
+    "commonFlg": true
+  },
+  {
+    "id": 20,
+    "appName": "Ozark Mountain",
+    "regionId": 11,
+    "commonFlg": true
+  },
+  {
+    "id": 21,
+    "appName": "Alexander Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 22,
+    "appName": "Alta Mesa",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 23,
+    "appName": "Anderson Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 24,
+    "appName": "Antelope Valley of the California High Desert",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 25,
+    "appName": "Arroyo Grande Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 26,
+    "appName": "Arroyo Seco",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 27,
+    "appName": "Atlas Peak",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 28,
+    "appName": "Ben Lomond Mountain",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 29,
+    "appName": "Benmore Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 30,
+    "appName": "Bennett Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 31,
+    "appName": "Borden Ranch",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 32,
+    "appName": "Shenandoah Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 33,
+    "appName": "Calistoga",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 34,
+    "appName": "Capay Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 35,
+    "appName": "Carmel Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 36,
+    "appName": "Central Coast",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 37,
+    "appName": "Chalk Hill",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 38,
+    "appName": "Chalone",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 39,
+    "appName": "Chiles Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 40,
+    "appName": "Cienega Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 41,
+    "appName": "Clarksburg",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 42,
+    "appName": "Clear Lake",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 43,
+    "appName": "Clement Hills",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 44,
+    "appName": "Cole Ranch",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 45,
+    "appName": "Coombsville",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 46,
+    "appName": "Cosumnes River",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 47,
+    "appName": "Covelo",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 48,
+    "appName": "Cucamonga Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 49,
+    "appName": "Diablo Grande",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 50,
+    "appName": "Diamond Mountain District",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 51,
+    "appName": "Dos Rios",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 52,
+    "appName": "Dry Creek Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 53,
+    "appName": "Dunnigan Hills",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 54,
+    "appName": "Edna Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 55,
+    "appName": "El Dorado",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 56,
+    "appName": "Fair Play",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 57,
+    "appName": "Fiddletown",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 58,
+    "appName": "Fort Ross-Seaview",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 59,
+    "appName": "Green Valley of Russian River Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 60,
+    "appName": "Guenoc Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 61,
+    "appName": "Hames Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 62,
+    "appName": "Happy Canyon of Santa Barbara",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 63,
+    "appName": "High Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 64,
+    "appName": "Howell Mountain",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 65,
+    "appName": "Inwood Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 66,
+    "appName": "Jahant",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 67,
+    "appName": "Knights Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 68,
+    "appName": "Leona Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 69,
+    "appName": "Lime Kiln Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 70,
+    "appName": "Livermore Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 71,
+    "appName": "Lodi",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 72,
+    "appName": "Los Carneros",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 73,
+    "appName": "Madera",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 74,
+    "appName": "Malibu-Newton Canyon",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 75,
+    "appName": "McDowell Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 76,
+    "appName": "Mendocino",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 77,
+    "appName": "Mendocino Ridge",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 78,
+    "appName": "Merritt Island",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 79,
+    "appName": "Mokelumne River",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 80,
+    "appName": "Monterey",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 81,
+    "appName": "Mount Harlan",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 82,
+    "appName": "Mount Veeder",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 83,
+    "appName": "Napa Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 84,
+    "appName": "North Coast",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 85,
+    "appName": "North Yuba",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 86,
+    "appName": "Northern Sonoma",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 87,
+    "appName": "Oak Knoll District of Napa Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 88,
+    "appName": "Oakville",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 89,
+    "appName": "Pacheco Pass",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 90,
+    "appName": "Paicines",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 91,
+    "appName": "Paso Robles",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 92,
+    "appName": "Pine Mountain-Cloverdale Peak",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 93,
+    "appName": "Potter Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 94,
+    "appName": "Ramona Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 95,
+    "appName": "Red Hills Lake County",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 96,
+    "appName": "Redwood Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 97,
+    "appName": "River Junction",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 98,
+    "appName": "Rockpile",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 99,
+    "appName": "Russian River Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 100,
+    "appName": "Rutherford",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 101,
+    "appName": "Saddle Rock Malibu",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 102,
+    "appName": "Saint Helena",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 103,
+    "appName": "Salado Creek",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 104,
+    "appName": "San Antonio Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 105,
+    "appName": "San Benito",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 106,
+    "appName": "San Bernabe",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 107,
+    "appName": "San Francisco Bay",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 108,
+    "appName": "San Lucas",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 109,
+    "appName": "San Pasqual Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 110,
+    "appName": "San Ysidro District",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 111,
+    "appName": "Santa Clara Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 112,
+    "appName": "Santa Cruz Mountains",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 113,
+    "appName": "Santa Lucia Highlands",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 114,
+    "appName": "Santa Maria Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 115,
+    "appName": "Santa Ynez Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 116,
+    "appName": "Seiad Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 117,
+    "appName": "Sierra Foothills",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 118,
+    "appName": "Sierra Pelona Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 119,
+    "appName": "Sloughhouse",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 120,
+    "appName": "Solano County Green Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 121,
+    "appName": "Sonoma Coast",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 122,
+    "appName": "Sonoma Mountain",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 123,
+    "appName": "Sonoma Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 124,
+    "appName": "South Coast",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 125,
+    "appName": "Spring Mountain District",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 126,
+    "appName": "Sta. Rita Hills",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 127,
+    "appName": "Stags Leap District",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 128,
+    "appName": "Suisun Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 129,
+    "appName": "Temecula Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 130,
+    "appName": "Tracy Hills",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 131,
+    "appName": "Trinity Lakes",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 132,
+    "appName": "Wild Horse Valley",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 133,
+    "appName": "Willow Creek",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 134,
+    "appName": "York Mountain",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 135,
+    "appName": "Yorkville Highlands",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 136,
+    "appName": "Yountville",
+    "regionId": 9,
+    "commonFlg": true
+  },
+  {
+    "id": 137,
+    "appName": "Grand Valley",
+    "regionId": 12,
+    "commonFlg": false
+  },
+  {
+    "id": 138,
+    "appName": "West Elks",
+    "regionId": 12,
+    "commonFlg": false
+  },
+  {
+    "id": 139,
+    "appName": "Southeastern New England",
+    "regionId": 13,
+    "commonFlg": false
+  },
+  {
+    "id": 140,
+    "appName": "Western Connecticut Highlands",
+    "regionId": 13,
+    "commonFlg": false
+  },
+  {
+    "id": 141,
+    "appName": "Central Delaware Valley",
+    "regionId": 14,
+    "commonFlg": false
+  },
+  {
+    "id": 142,
+    "appName": "Snake River Valley",
+    "regionId": 15,
+    "commonFlg": false
+  },
+  {
+    "id": 143,
+    "appName": "Shawnee Hills",
+    "regionId": 16,
+    "commonFlg": false
+  },
+  {
+    "id": 144,
+    "appName": "Indiana Uplands",
+    "regionId": 17,
+    "commonFlg": false
+  },
+  {
+    "id": 145,
+    "appName": "Ohio River Valley",
+    "regionId": 17,
+    "commonFlg": false
+  },
+  {
+    "id": 146,
+    "appName": "Catoctin",
+    "regionId": 18,
+    "commonFlg": false
+  },
+  {
+    "id": 147,
+    "appName": "Cumberland Valley",
+    "regionId": 18,
+    "commonFlg": false
+  },
+  {
+    "id": 148,
+    "appName": "Linganore",
+    "regionId": 18,
+    "commonFlg": false
+  },
+  {
+    "id": 149,
+    "appName": "Marthas Vineyard",
+    "regionId": 19,
+    "commonFlg": false
+  },
+  {
+    "id": 150,
+    "appName": "Fennville",
+    "regionId": 20,
+    "commonFlg": false
+  },
+  {
+    "id": 151,
+    "appName": "Lake Michigan Shore",
+    "regionId": 20,
+    "commonFlg": false
+  },
+  {
+    "id": 152,
+    "appName": "Leelanau Peninsula",
+    "regionId": 20,
+    "commonFlg": false
+  },
+  {
+    "id": 153,
+    "appName": "Old Mission Peninsula",
+    "regionId": 20,
+    "commonFlg": false
+  },
+  {
+    "id": 154,
+    "appName": "Alexandria Lakes",
+    "regionId": 21,
+    "commonFlg": false
+  },
+  {
+    "id": 155,
+    "appName": "Mississippi Delta",
+    "regionId": 22,
+    "commonFlg": false
+  },
+  {
+    "id": 156,
+    "appName": "Augusta",
+    "regionId": 23,
+    "commonFlg": false
+  },
+  {
+    "id": 157,
+    "appName": "Hermann",
+    "regionId": 23,
+    "commonFlg": false
+  },
+  {
+    "id": 158,
+    "appName": "Ozark Highlands",
+    "regionId": 23,
+    "commonFlg": false
+  },
+  {
+    "id": 159,
+    "appName": "Outer Coastal Plain",
+    "regionId": 24,
+    "commonFlg": false
+  },
+  {
+    "id": 160,
+    "appName": "Warren Hills",
+    "regionId": 24,
+    "commonFlg": false
+  },
+  {
+    "id": 161,
+    "appName": "Mesilla Valley",
+    "regionId": 25,
+    "commonFlg": false
+  },
+  {
+    "id": 162,
+    "appName": "Middle Rio Grande Valley",
+    "regionId": 25,
+    "commonFlg": false
+  },
+  {
+    "id": 163,
+    "appName": "Mimbres Valley",
+    "regionId": 25,
+    "commonFlg": false
+  },
+  {
+    "id": 164,
+    "appName": "Cayuga Lake",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 165,
+    "appName": "Finger Lakes",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 166,
+    "appName": "Hudson River Region",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 167,
+    "appName": "Lake Erie",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 168,
+    "appName": "Long Island",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 169,
+    "appName": "Niagara Escarpment",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 170,
+    "appName": "North Fork of Long Island",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 171,
+    "appName": "Seneca Lake",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 172,
+    "appName": "The Hamptons - Long Island",
+    "regionId": 26,
+    "commonFlg": true
+  },
+  {
+    "id": 173,
+    "appName": "Haw River Valley",
+    "regionId": 27,
+    "commonFlg": false
+  },
+  {
+    "id": 174,
+    "appName": "Swan Creek",
+    "regionId": 27,
+    "commonFlg": false
+  },
+  {
+    "id": 175,
+    "appName": "Yadkin Valley",
+    "regionId": 27,
+    "commonFlg": false
+  },
+  {
+    "id": 176,
+    "appName": "Grand River Valley",
+    "regionId": 28,
+    "commonFlg": false
+  },
+  {
+    "id": 177,
+    "appName": "Isle St. George",
+    "regionId": 28,
+    "commonFlg": false
+  },
+  {
+    "id": 178,
+    "appName": "Loramie Creek",
+    "regionId": 28,
+    "commonFlg": false
+  },
+  {
+    "id": 179,
+    "appName": "Applegate Valley",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 180,
+    "appName": "Chehalem Mountains",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 181,
+    "appName": "Columbia Gorge",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 182,
+    "appName": "Columbia Valley",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 183,
+    "appName": "Dundee Hills",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 184,
+    "appName": "Elkton Oregon",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 185,
+    "appName": "Eola Amity Hills",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 186,
+    "appName": "McMinnville",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 187,
+    "appName": "Red Hill Douglas County",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 188,
+    "appName": "Ribbon Ridge",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 189,
+    "appName": "Rogue Valley",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 190,
+    "appName": "Southern Oregon",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 191,
+    "appName": "Umpqua Valley",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 192,
+    "appName": "Walla Walla Valley",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 193,
+    "appName": "Williamette Valley",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 194,
+    "appName": "Yamhill-Carlton District",
+    "regionId": 29,
+    "commonFlg": true
+  },
+  {
+    "id": 195,
+    "appName": "Lancaster Valley",
+    "regionId": 30,
+    "commonFlg": false
+  },
+  {
+    "id": 196,
+    "appName": "Lehigh Valley",
+    "regionId": 30,
+    "commonFlg": false
+  },
+  {
+    "id": 197,
+    "appName": "Bell Mountain",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 198,
+    "appName": "Escondido Valley",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 199,
+    "appName": "Fredericksburg in the Texas Hill Country",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 200,
+    "appName": "Texas Davis Mountains",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 201,
+    "appName": "Texas High Plains",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 202,
+    "appName": "Texas Hill Country",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 203,
+    "appName": "Texoma",
+    "regionId": 31,
+    "commonFlg": false
+  },
+  {
+    "id": 204,
+    "appName": "Middleburg Virginia",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 205,
+    "appName": "Monticello",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 206,
+    "appName": "North Fork of Roanoke",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 207,
+    "appName": "Northern Neck George Washington Birthplace",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 208,
+    "appName": "Rocky Knob",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 209,
+    "appName": "Shenandoah Valley",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 210,
+    "appName": "Virginias Eastern Shore",
+    "regionId": 32,
+    "commonFlg": false
+  },
+  {
+    "id": 211,
+    "appName": "Ancient Lakes of Columbia Valley",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 212,
+    "appName": "Horse Heaven Hills",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 213,
+    "appName": "Lake Chelan",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 214,
+    "appName": "Naches Heights",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 215,
+    "appName": "Puget Sound",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 216,
+    "appName": "Rattlesnake Hills",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 217,
+    "appName": "Red Mountain",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 218,
+    "appName": "Snipes Mountain",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 219,
+    "appName": "Wahluke Slope",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 220,
+    "appName": "Yakima Valley",
+    "regionId": 33,
+    "commonFlg": true
+  },
+  {
+    "id": 221,
+    "appName": "Kanawha River Valley",
+    "regionId": 35,
+    "commonFlg": false
+  },
+  {
+    "id": 222,
+    "appName": "Lake Wisconsin",
+    "regionId": 34,
+    "commonFlg": false
+  },
+  {
+    "id": 223,
+    "appName": "Wisconsin Ledge",
+    "regionId": 34,
+    "commonFlg": false
+  },
+  {
+    "id": 224,
+    "appName": "Middle Tennesse",
+    "regionId": 36,
+    "commonFlg": true
+  },
+  {
+    "id": 225,
+    "appName": "Marlborough",
+    "regionId": 37,
+    "commonFlg": false
+  },
+  {
+    "id": 226,
+    "appName": "Bordeau",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 227,
+    "appName": "Unknown",
+    "regionId": 38,
+    "commonFlg": false
+  },
+  {
+    "id": 228,
+    "appName": "Sicily",
+    "regionId": 6,
+    "commonFlg": true
+  },
+  {
+    "id": 229,
+    "appName": "Sardinia",
+    "regionId": 39,
+    "commonFlg": true
+  },
+  {
+    "id": 230,
+    "appName": "Piedmont",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 231,
+    "appName": "Aosta Valley",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 232,
+    "appName": "Lombardy",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 233,
+    "appName": "Trentino",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 234,
+    "appName": "Friuli-Venezia",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 235,
+    "appName": "Veneto",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 236,
+    "appName": "Liguria",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 237,
+    "appName": "Emilia-Romagna",
+    "regionId": 40,
+    "commonFlg": true
+  },
+  {
+    "id": 238,
+    "appName": "Tuscany",
+    "regionId": 41,
+    "commonFlg": true
+  },
+  {
+    "id": 239,
+    "appName": "Marche",
+    "regionId": 41,
+    "commonFlg": true
+  },
+  {
+    "id": 240,
+    "appName": "Umbria",
+    "regionId": 41,
+    "commonFlg": true
+  },
+  {
+    "id": 241,
+    "appName": "Lazio",
+    "regionId": 41,
+    "commonFlg": true
+  },
+  {
+    "id": 242,
+    "appName": "Abruzzi",
+    "regionId": 41,
+    "commonFlg": true
+  },
+  {
+    "id": 243,
+    "appName": "Molise",
+    "regionId": 41,
+    "commonFlg": true
+  },
+  {
+    "id": 244,
+    "appName": "Campania",
+    "regionId": 42,
+    "commonFlg": true
+  },
+  {
+    "id": 245,
+    "appName": "Puglia",
+    "regionId": 42,
+    "commonFlg": true
+  },
+  {
+    "id": 246,
+    "appName": "Basilicata",
+    "regionId": 42,
+    "commonFlg": true
+  },
+  {
+    "id": 247,
+    "appName": "Calabria",
+    "regionId": 42,
+    "commonFlg": true
+  },
+  {
+    "id": 248,
+    "appName": "Alsace",
+    "regionId": 43,
+    "commonFlg": true
+  },
+  {
+    "id": 249,
+    "appName": "Cremant d-Alsace",
+    "regionId": 43,
+    "commonFlg": false
+  },
+  {
+    "id": 250,
+    "appName": "Beaujolais",
+    "regionId": 44,
+    "commonFlg": true
+  },
+  {
+    "id": 251,
+    "appName": "Beaujolais-Villages",
+    "regionId": 44,
+    "commonFlg": true
+  },
+  {
+    "id": 252,
+    "appName": "Brouilly",
+    "regionId": 44,
+    "commonFlg": true
+  },
+  {
+    "id": 253,
+    "appName": "Chenas",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 254,
+    "appName": "Chiroubles",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 255,
+    "appName": "Cote de Brouilly",
+    "regionId": 44,
+    "commonFlg": true
+  },
+  {
+    "id": 256,
+    "appName": "Fleurie",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 257,
+    "appName": "Julienas",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 258,
+    "appName": "Morgon",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 259,
+    "appName": "Moulin a vent",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 260,
+    "appName": "Regnie",
+    "regionId": 44,
+    "commonFlg": false
+  },
+  {
+    "id": 261,
+    "appName": "Saint-Amour",
+    "regionId": 44,
+    "commonFlg": true
+  },
+  {
+    "id": 262,
+    "appName": "Barsac",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 263,
+    "appName": "Blaye",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 264,
+    "appName": "Bordeaux",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 265,
+    "appName": "Bordeaux clairet",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 266,
+    "appName": "Bordeaux Cotes de Francs",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 267,
+    "appName": "Bordeaux Haut-Benauge",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 268,
+    "appName": "Bordeaux moelleux",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 269,
+    "appName": "Bordeaux rose",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 270,
+    "appName": "Bordeaux sec",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 271,
+    "appName": "Bordeaux superieur",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 272,
+    "appName": "Cadillac",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 273,
+    "appName": "Canon Fronsac",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 274,
+    "appName": "Cerons",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 275,
+    "appName": "Cotes de Blaye",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 276,
+    "appName": "Cotes de Bordeaux Saint-Macaire",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 277,
+    "appName": "Cotes de Bourg",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 278,
+    "appName": "Cotes de Castillon",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 279,
+    "appName": "Cremant de Bordeaux",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 280,
+    "appName": "Entre-Deux-Mers",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 281,
+    "appName": "Entre-Deux-Mers-Haut-Benauge",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 282,
+    "appName": "Fronsac",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 283,
+    "appName": "Graves",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 284,
+    "appName": "Graves de Vayres",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 285,
+    "appName": "Graves Superieures",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 286,
+    "appName": "Haut-Medoc",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 287,
+    "appName": "Lalande-de-Pomerol",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 288,
+    "appName": "Listrac-Medoc",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 289,
+    "appName": "Loupiac",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 290,
+    "appName": "Lussac-Saint-Emilion",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 291,
+    "appName": "Margaux",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 292,
+    "appName": "Medoc",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 293,
+    "appName": "Montagne Saint-Emilion",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 294,
+    "appName": "Moulis or Moulis-en-Medoc",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 295,
+    "appName": "Neac",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 296,
+    "appName": "Pauillac",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 297,
+    "appName": "Pessac-Leognan",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 298,
+    "appName": "Pomerol",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 299,
+    "appName": "Premieres Cotes de Blaye",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 300,
+    "appName": "Premieres Cotes de Bordeaux",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 301,
+    "appName": "Puisseguin Saint-Emilion",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 302,
+    "appName": "Saint-Emilion",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 303,
+    "appName": "Saint-Emilion Grand Cru",
+    "regionId": 5,
+    "commonFlg": false
+  },
+  {
+    "id": 304,
+    "appName": "Saint-Estephe",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 305,
+    "appName": "Saint-Georges Saint-Emilion",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 306,
+    "appName": "Saint-Julien",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 307,
+    "appName": "Sainte-Croix-du-Mont",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 308,
+    "appName": "Sainte-Foy-Bordeaux",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 309,
+    "appName": "Sauternes",
+    "regionId": 5,
+    "commonFlg": true
+  },
+  {
+    "id": 310,
+    "appName": "Bugey",
+    "regionId": 45,
+    "commonFlg": true
+  },
+  {
+    "id": 311,
+    "appName": "Roussette du Bugey",
+    "regionId": 45,
+    "commonFlg": true
+  },
+  {
+    "id": 312,
+    "appName": "Aloxe-Corton",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 313,
+    "appName": "Auxey-Duresses",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 314,
+    "appName": "Batard-Montrachet",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 315,
+    "appName": "Beaune",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 316,
+    "appName": "Bienvenues-Batard-Montrachet",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 317,
+    "appName": "Blagny",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 318,
+    "appName": "Bonnes-Mares",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 319,
+    "appName": "Bourgogne",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 320,
+    "appName": "Bourgogne aligote",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 321,
+    "appName": "Bourgogne clairet",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 322,
+    "appName": "Bourgogne clairet Cote chalonnaise",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 323,
+    "appName": "Bourgogne Coulanges-la-Vineuse",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 324,
+    "appName": "Bourgogne Cote Saint-Jacques",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 325,
+    "appName": "Bourgogne Coulanges-la-Vineuse",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 326,
+    "appName": "Bourgogne Cotes d-Auxerre",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 327,
+    "appName": "Bourgogne Cotes du Couchois",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 328,
+    "appName": "Bourgogne Epineuil",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 329,
+    "appName": "Bourgogne grand ordinaire",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 330,
+    "appName": "Bourgogne Hautes-cotes de Beaune",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 331,
+    "appName": "Bourgogne Hautes-cotes de Nuits",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 332,
+    "appName": "Bourgogne La Chapelle Notre-Dame",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 333,
+    "appName": "Bourgogne le Chapitre",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 334,
+    "appName": "Bourgogne Montrecul",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 335,
+    "appName": "Bourgogne mousseux",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 336,
+    "appName": "Bourgogne ordinaire",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 337,
+    "appName": "Bourgogne Passe-tout-grains",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 338,
+    "appName": "Bourgogne Vezelay",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 339,
+    "appName": "Bourgogne rose",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 340,
+    "appName": "Bouzeron",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 341,
+    "appName": "Chablis",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 342,
+    "appName": "Chablis Grand Cru",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 343,
+    "appName": "Chablis Premier Cru",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 344,
+    "appName": "Chambertin",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 345,
+    "appName": "Chambertin-Clos-de-Beze",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 346,
+    "appName": "Chambolle-Musigny",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 347,
+    "appName": "Chapelle-Chambertin",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 348,
+    "appName": "Charlemagne",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 349,
+    "appName": "Charmes-Chambertin",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 350,
+    "appName": "Chassagne-Montrachet",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 351,
+    "appName": "Chevalier-Montrachet",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 352,
+    "appName": "Chorey-les-Beaune",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 353,
+    "appName": "Clos des Lambrays",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 354,
+    "appName": "Clos de la Roche",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 355,
+    "appName": "Clos de Tart",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 356,
+    "appName": "Clos de Vougeot",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 357,
+    "appName": "Clos Saint-Denis",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 358,
+    "appName": "Corton",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 359,
+    "appName": "Corton-Charlemagne",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 360,
+    "appName": "Cote de Beaune",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 361,
+    "appName": "Cote de Beaune-Villages",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 362,
+    "appName": "Cote de Nuits-villages",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 363,
+    "appName": "Cotes du Forez",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 364,
+    "appName": "Cremant de Bourgogne",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 365,
+    "appName": "Criots-Batard-Montrachet",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 366,
+    "appName": "Echezeaux",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 367,
+    "appName": "Fixin",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 368,
+    "appName": "Gevrey-Chambertin",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 369,
+    "appName": "Givry",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 370,
+    "appName": "Grands Echezeaux",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 371,
+    "appName": "Griotte-Chambertin",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 372,
+    "appName": "Irancy",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 373,
+    "appName": "Ladoix",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 374,
+    "appName": "La Grande Rue",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 375,
+    "appName": "La Romanee",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 376,
+    "appName": "La Tache",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 377,
+    "appName": "Latricieres-Chambertin",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 378,
+    "appName": "Macon",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 379,
+    "appName": "Macon superieur",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 380,
+    "appName": "Macon-villages",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 381,
+    "appName": "Maranges",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 382,
+    "appName": "Marsannay",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 383,
+    "appName": "Mazis-Chambertin",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 384,
+    "appName": "Mazoyeres-Chambertin",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 385,
+    "appName": "Mercurey",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 386,
+    "appName": "Meursault",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 387,
+    "appName": "Montagny",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 388,
+    "appName": "Monthelie",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 389,
+    "appName": "Montrachet",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 390,
+    "appName": "Morey-Saint-Denis",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 391,
+    "appName": "Musigny",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 392,
+    "appName": "Nuits-Saint-Georges",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 393,
+    "appName": "Pernand-Vergelesses",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 394,
+    "appName": "Petit Chablis",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 395,
+    "appName": "Pommard",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 396,
+    "appName": "Pouilly-Fuisse",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 397,
+    "appName": "Pouilly-Loche",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 398,
+    "appName": "Pouilly-Vinzelles",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 399,
+    "appName": "Puligny-Montrachet",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 400,
+    "appName": "Richebourg",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 401,
+    "appName": "Romanee-Conti",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 402,
+    "appName": "Romanee-Saint-Vivant",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 403,
+    "appName": "Ruchottes-Chambertin",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 404,
+    "appName": "Rully",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 405,
+    "appName": "Saint-Aubin",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 406,
+    "appName": "Saint-Bris",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 407,
+    "appName": "Saint-Romain",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 408,
+    "appName": "Saint-Veran",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 409,
+    "appName": "Santenay",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 410,
+    "appName": "Savigny-les-Beaune",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 411,
+    "appName": "Tonnerre",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 412,
+    "appName": "Vins Fins de la Cote de Nuits",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 413,
+    "appName": "Vire-Clesse",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 414,
+    "appName": "Volnay",
+    "regionId": 46,
+    "commonFlg": true
+  },
+  {
+    "id": 415,
+    "appName": "Volnay Santenots",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 416,
+    "appName": "Vosne-Romanee",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 417,
+    "appName": "Vougeot",
+    "regionId": 46,
+    "commonFlg": false
+  },
+  {
+    "id": 418,
+    "appName": "Champagne",
+    "regionId": 47,
+    "commonFlg": true
+  },
+  {
+    "id": 419,
+    "appName": "Coteaux Champenois",
+    "regionId": 47,
+    "commonFlg": true
+  },
+  {
+    "id": 420,
+    "appName": "Rose des Riceys",
+    "regionId": 47,
+    "commonFlg": true
+  },
+  {
+    "id": 421,
+    "appName": "Pineau des Charentes",
+    "regionId": 48,
+    "commonFlg": true
+  },
+  {
+    "id": 422,
+    "appName": "Ajaccio",
+    "regionId": 49,
+    "commonFlg": true
+  },
+  {
+    "id": 423,
+    "appName": "Corse or Vin de Corse",
+    "regionId": 49,
+    "commonFlg": true
+  },
+  {
+    "id": 424,
+    "appName": "Patrimonio",
+    "regionId": 49,
+    "commonFlg": true
+  },
+  {
+    "id": 425,
+    "appName": "Cotes de Toul",
+    "regionId": 59,
+    "commonFlg": true
+  },
+  {
+    "id": 426,
+    "appName": "Arbois",
+    "regionId": 50,
+    "commonFlg": false
+  },
+  {
+    "id": 427,
+    "appName": "Chateau-Chalon",
+    "regionId": 50,
+    "commonFlg": false
+  },
+  {
+    "id": 428,
+    "appName": "Cotes du Jura",
+    "regionId": 50,
+    "commonFlg": false
+  },
+  {
+    "id": 429,
+    "appName": "Cremant du Jura",
+    "regionId": 50,
+    "commonFlg": false
+  },
+  {
+    "id": 430,
+    "appName": "L-Etoile",
+    "regionId": 50,
+    "commonFlg": true
+  },
+  {
+    "id": 431,
+    "appName": "Blanquette methode ancestrale",
+    "regionId": 51,
+    "commonFlg": true
+  },
+  {
+    "id": 432,
+    "appName": "Cotes de la Malepere",
+    "regionId": 51,
+    "commonFlg": true
+  },
+  {
+    "id": 433,
+    "appName": "Banyuls",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 434,
+    "appName": "Banyuls Grand Cru",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 435,
+    "appName": "Blanquette de Limoux",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 436,
+    "appName": "Cabardes",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 437,
+    "appName": "Clairette de Bellegarde",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 438,
+    "appName": "Clairette du Languedoc",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 439,
+    "appName": "Collioure",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 440,
+    "appName": "Corbieres",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 441,
+    "appName": "Coteaux du Languedoc",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 442,
+    "appName": "Cotes du Roussillon",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 443,
+    "appName": "Cotes du Roussillon Villages",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 444,
+    "appName": "Cremant de Limoux",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 445,
+    "appName": "Faugeres",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 446,
+    "appName": "Fitou",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 447,
+    "appName": "Frontignan",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 448,
+    "appName": "Grand Roussillon",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 449,
+    "appName": "Limoux",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 450,
+    "appName": "Maury",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 451,
+    "appName": "Minervois",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 452,
+    "appName": "Minervois-La Liviniere",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 453,
+    "appName": "Muscat de Frontignan",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 454,
+    "appName": "Muscat de Lunel",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 455,
+    "appName": "Muscat de Mireval",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 456,
+    "appName": "Muscat de Rivesaltes",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 457,
+    "appName": "Muscat de Saint-Jean de Minervois",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 458,
+    "appName": "Rivesaltes",
+    "regionId": 52,
+    "commonFlg": true
+  },
+  {
+    "id": 459,
+    "appName": "Saint-Chinian",
+    "regionId": 52,
+    "commonFlg": false
+  },
+  {
+    "id": 460,
+    "appName": "Anjou",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 461,
+    "appName": "Anjou-Coteaux de la Loire",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 462,
+    "appName": "Anjou-Gamay",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 463,
+    "appName": "Anjou Villages",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 464,
+    "appName": "Anjou Villages Brissac",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 465,
+    "appName": "Bonnezeaux",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 466,
+    "appName": "Bourgueil",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 467,
+    "appName": "Cabernet d-Anjou",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 468,
+    "appName": "Cabernet de Saumur",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 469,
+    "appName": "Chaume",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 470,
+    "appName": "Cheverny",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 471,
+    "appName": "Chinon",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 472,
+    "appName": "Cote Roannaise",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 473,
+    "appName": "Coteaux de l-Aubance",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 474,
+    "appName": "Coteaux du Giennois",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 475,
+    "appName": "Coteaux du Layon",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 476,
+    "appName": "Coteaux du Loir",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 477,
+    "appName": "Coteaux de Saumur",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 478,
+    "appName": "Coteaux du Vendomois",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 479,
+    "appName": "Cour-Cheverny",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 480,
+    "appName": "Cremant de Loire",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 481,
+    "appName": "Jasnieres",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 482,
+    "appName": "Menetou-Salon",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 483,
+    "appName": "Montlouis",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 484,
+    "appName": "Muscadet",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 485,
+    "appName": "Muscadet-Coteaux de la Loire",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 486,
+    "appName": "Muscadet-Cotes de Grandlieu",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 487,
+    "appName": "Muscadet-Sevre et Maine",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 488,
+    "appName": "Orleans",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 489,
+    "appName": "Orleans-Clery",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 490,
+    "appName": "Pouilly-Fume",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 491,
+    "appName": "Pouilly-sur-Loire",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 492,
+    "appName": "Quarts de Chaume",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 493,
+    "appName": "Quincy",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 494,
+    "appName": "Reuilly",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 495,
+    "appName": "Rose de Loire",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 496,
+    "appName": "Saint-Nicolas-de-Bourgueil",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 497,
+    "appName": "Saint-Pourcain",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 498,
+    "appName": "Sancerre",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 499,
+    "appName": "Saumur",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 500,
+    "appName": "Saumur-Champigny",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 501,
+    "appName": "Saumur mousseux",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 502,
+    "appName": "Savennieres",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 503,
+    "appName": "Savennieres-Coulee-de-Serrant",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 504,
+    "appName": "Savennieres-Roche-aux-Moines",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 505,
+    "appName": "Touraine",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 506,
+    "appName": "Touraine-Amboise",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 507,
+    "appName": "Touraine-Azay-le-Rideau",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 508,
+    "appName": "Touraine-Mesland",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 509,
+    "appName": "Touraine Noble Joue",
+    "regionId": 53,
+    "commonFlg": false
+  },
+  {
+    "id": 510,
+    "appName": "Valencay",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 511,
+    "appName": "Vouvray",
+    "regionId": 53,
+    "commonFlg": true
+  },
+  {
+    "id": 512,
+    "appName": "Coteaux du Lyonnais",
+    "regionId": 54,
+    "commonFlg": true
+  },
+  {
+    "id": 513,
+    "appName": "Bandol",
+    "regionId": 55,
+    "commonFlg": false
+  },
+  {
+    "id": 514,
+    "appName": "Bellet",
+    "regionId": 55,
+    "commonFlg": false
+  },
+  {
+    "id": 515,
+    "appName": "Cassis",
+    "regionId": 55,
+    "commonFlg": true
+  },
+  {
+    "id": 516,
+    "appName": "Coteaux d-Aix-en-Provence",
+    "regionId": 55,
+    "commonFlg": true
+  },
+  {
+    "id": 517,
+    "appName": "Coteaux de Pierrevert",
+    "regionId": 55,
+    "commonFlg": true
+  },
+  {
+    "id": 518,
+    "appName": "Coteaux Varois",
+    "regionId": 55,
+    "commonFlg": true
+  },
+  {
+    "id": 519,
+    "appName": "Cotes de Provence",
+    "regionId": 55,
+    "commonFlg": true
+  },
+  {
+    "id": 520,
+    "appName": "Les Baux-de-Provence",
+    "regionId": 55,
+    "commonFlg": false
+  },
+  {
+    "id": 521,
+    "appName": "Palette",
+    "regionId": 55,
+    "commonFlg": false
+  },
+  {
+    "id": 522,
+    "appName": "Beaumes de Venise",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 523,
+    "appName": "Chateau-Grillet",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 524,
+    "appName": "Chateauneuf-du-Pape",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 525,
+    "appName": "Chatillon-en-Diois",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 526,
+    "appName": "Clairette de Die",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 527,
+    "appName": "Condrieu",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 528,
+    "appName": "Cornas",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 529,
+    "appName": "Costieres de Nimes",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 530,
+    "appName": "Cote-Rotie",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 531,
+    "appName": "Coteaux de Die",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 532,
+    "appName": "Coteaux du Tricastin",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 533,
+    "appName": "Cotes du Luberon",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 534,
+    "appName": "Cotes du Rhone",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 535,
+    "appName": "Cotes du Rhone Villages",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 536,
+    "appName": "Cotes du Ventoux",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 537,
+    "appName": "Cotes du Vivarais",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 538,
+    "appName": "Cremant de Die",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 539,
+    "appName": "Crozes-Hermitage",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 540,
+    "appName": "Gigondas",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 541,
+    "appName": "Hermitage",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 542,
+    "appName": "Lirac",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 543,
+    "appName": "Muscat de Beaumes-de-Venise",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 544,
+    "appName": "Saint-Joseph",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 545,
+    "appName": "Saint-Peray",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 546,
+    "appName": "Tavel",
+    "regionId": 56,
+    "commonFlg": true
+  },
+  {
+    "id": 547,
+    "appName": "Vacqueyras",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 548,
+    "appName": "Vinsobres",
+    "regionId": 56,
+    "commonFlg": false
+  },
+  {
+    "id": 549,
+    "appName": "Crepy",
+    "regionId": 57,
+    "commonFlg": false
+  },
+  {
+    "id": 550,
+    "appName": "Roussette de Savoie",
+    "regionId": 57,
+    "commonFlg": false
+  },
+  {
+    "id": 551,
+    "appName": "Seyssel",
+    "regionId": 57,
+    "commonFlg": false
+  },
+  {
+    "id": 552,
+    "appName": "Vin de Savoie",
+    "regionId": 57,
+    "commonFlg": false
+  },
+  {
+    "id": 553,
+    "appName": "Bearn",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 554,
+    "appName": "Bergerac",
+    "regionId": 58,
+    "commonFlg": true
+  },
+  {
+    "id": 555,
+    "appName": "Bergerac sec",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 556,
+    "appName": "Bergerac rose",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 557,
+    "appName": "Buzet",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 558,
+    "appName": "Cahors",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 559,
+    "appName": "Coteaux du Quercy",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 560,
+    "appName": "Cotes de Bergerac",
+    "regionId": 58,
+    "commonFlg": true
+  },
+  {
+    "id": 561,
+    "appName": "Cotes de Bergerac Blanc",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 562,
+    "appName": "Cotes de Duras",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 563,
+    "appName": "Cotes de Millau",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 564,
+    "appName": "Cotes de Montravel",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 565,
+    "appName": "Cotes du Marmandais",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 566,
+    "appName": "Fronton",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 567,
+    "appName": "Gaillac",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 568,
+    "appName": "Gaillac Premieres Cotess",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 569,
+    "appName": "Haut-Montravel",
+    "regionId": 58,
+    "commonFlg": true
+  },
+  {
+    "id": 570,
+    "appName": "Irouleguy",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 571,
+    "appName": "Jurancon",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 572,
+    "appName": "Madiran",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 573,
+    "appName": "Marcillac",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 574,
+    "appName": "Monbazillac",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 575,
+    "appName": "Montravel",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 576,
+    "appName": "Pacherenc du Vic-Bilh",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 577,
+    "appName": "Pacherenc du Vic-Bilh Sec",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 578,
+    "appName": "Pecharmant",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 579,
+    "appName": "Rosette",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 580,
+    "appName": "Saint-Mont",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 581,
+    "appName": "Saint-Sardos",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 582,
+    "appName": "Saussignac",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 583,
+    "appName": "Tursan",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 584,
+    "appName": "Vins d-Entraygues et du Fel",
+    "regionId": 58,
+    "commonFlg": false
+  },
+  {
+    "id": 585,
+    "appName": "Vins d-Estaing",
+    "regionId": 58,
+    "commonFlg": false
+  }
+]
